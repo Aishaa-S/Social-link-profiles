@@ -35,7 +35,7 @@ img{
 }
 #region{
     color: hsl(75, 94%, 57%);
-    font-weight: 400;
+    font-weight: 600;
     display: flex;
     justify-content: center;
     font-size: 11px;
