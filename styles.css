@@ -67,6 +67,7 @@ button{
     background-color: hsl(0, 0%, 20%);
     color: white;
     cursor: pointer;
+    font-weight: 600;
     margin: 0 0.5rem 0.95rem 0.05rem;
     
    
