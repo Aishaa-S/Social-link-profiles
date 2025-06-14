@@ -69,6 +69,11 @@ button{
     cursor: pointer;
     font-weight: 600;
     margin: 0 0.5rem 0.95rem 0.05rem;
+    transition: background-color 0.5s;
     
    
+}
+button:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
 }
